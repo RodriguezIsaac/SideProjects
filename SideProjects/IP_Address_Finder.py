@@ -1,4 +1,5 @@
 import socket
+#todo Uncomment the 3 commented lines below to access your public IP Address
 #from requests import get
 
 hostname = socket.gethostname()
